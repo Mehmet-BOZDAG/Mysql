@@ -11,4 +11,5 @@ public interface EmployeeDAO {
 	public List<Employee> getEmployees();	
 	//
 	public void removeEmployee(int id);
+	//interfaceyi owerride edecekler
 }
