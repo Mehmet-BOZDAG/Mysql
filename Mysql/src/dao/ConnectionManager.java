@@ -24,7 +24,7 @@ public class ConnectionManager {
 			mySQLDataSource.setUser(props.getProperty("username"));
 			mySQLDataSource.setPassword(props.getProperty("password"));
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
+			// hata fýrlatabiliriz
 			e.printStackTrace();
 		}
 		
