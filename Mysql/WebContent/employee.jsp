@@ -26,7 +26,7 @@
 							<fieldset>
 
 								<!-- Form Name -->
-								<legend>Employee Add</legend>
+								<legend>Employee Add..</legend>
 
 								<!-- Text input-->
 								<div class="form-group">
